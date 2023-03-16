@@ -6,3 +6,6 @@ def test_icon(browser):
     assert swag_page.exist_icon()
     assert swag_page.exist_name()
     assert swag_page.exist_password()
+
+
+
